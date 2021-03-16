@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Techfios aplpliction Test suite" duration-ms="26973" started-at="2021-03-14T21:15:56Z" finished-at="2021-03-14T21:16:23Z">
+    <groups>
+    </groups>
+    <test name="Techfios Automation test cases" duration-ms="26973" started-at="2021-03-14T21:15:56Z" finished-at="2021-03-14T21:16:23Z">
+      <class name="qa.TechFios.Test.HomePageTest">
+        <test-method status="PASS" signature="PreCondition()[pri:0, instance:qa.TechFios.Test.HomePageTest@3abbfa04]" name="PreCondition" is-config="true" duration-ms="5184" started-at="2021-03-14T21:16:02Z" finished-at="2021-03-14T21:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreCondition -->
+        <test-method status="PASS" signature="HomePageTitleVerufy()[pri:1, instance:qa.TechFios.Test.HomePageTest@3abbfa04]" name="HomePageTitleVerufy" duration-ms="10" started-at="2021-03-14T21:16:07Z" finished-at="2021-03-14T21:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitleVerufy -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:qa.TechFios.Test.HomePageTest@3abbfa04]" name="TearDown" is-config="true" duration-ms="753" started-at="2021-03-14T21:16:07Z" finished-at="2021-03-14T21:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="PreCondition()[pri:0, instance:qa.TechFios.Test.HomePageTest@3abbfa04]" name="PreCondition" is-config="true" duration-ms="5753" started-at="2021-03-14T21:16:16Z" finished-at="2021-03-14T21:16:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreCondition -->
+        <test-method status="PASS" signature="ClickOnContectsPage()[pri:2, instance:qa.TechFios.Test.HomePageTest@3abbfa04]" name="ClickOnContectsPage" duration-ms="876" started-at="2021-03-14T21:16:21Z" finished-at="2021-03-14T21:16:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnContectsPage -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:qa.TechFios.Test.HomePageTest@3abbfa04]" name="TearDown" is-config="true" duration-ms="916" started-at="2021-03-14T21:16:22Z" finished-at="2021-03-14T21:16:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- qa.TechFios.Test.HomePageTest -->
+      <class name="qa.TechFios.Test.LoginPageTest">
+        <test-method status="PASS" signature="PreCondition()[pri:0, instance:qa.TechFios.Test.LoginPageTest@239963d8]" name="PreCondition" is-config="true" duration-ms="4833" started-at="2021-03-14T21:15:56Z" finished-at="2021-03-14T21:16:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreCondition -->
+        <test-method status="PASS" signature="TechFiosLogoTest()[pri:1, instance:qa.TechFios.Test.LoginPageTest@239963d8]" name="TechFiosLogoTest" duration-ms="132" started-at="2021-03-14T21:16:01Z" finished-at="2021-03-14T21:16:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TechFiosLogoTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:qa.TechFios.Test.LoginPageTest@239963d8]" name="TearDown" is-config="true" duration-ms="774" started-at="2021-03-14T21:16:01Z" finished-at="2021-03-14T21:16:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="PreCondition()[pri:0, instance:qa.TechFios.Test.LoginPageTest@239963d8]" name="PreCondition" is-config="true" duration-ms="4173" started-at="2021-03-14T21:16:08Z" finished-at="2021-03-14T21:16:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreCondition -->
+        <test-method status="PASS" signature="LogInTest()[pri:2, instance:qa.TechFios.Test.LoginPageTest@239963d8]" name="LogInTest" duration-ms="2370" started-at="2021-03-14T21:16:12Z" finished-at="2021-03-14T21:16:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:qa.TechFios.Test.LoginPageTest@239963d8]" name="TearDown" is-config="true" duration-ms="1146" started-at="2021-03-14T21:16:15Z" finished-at="2021-03-14T21:16:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- qa.TechFios.Test.LoginPageTest -->
+    </test> <!-- Techfios Automation test cases -->
+  </suite> <!-- Techfios aplpliction Test suite -->
+</testng-results>
